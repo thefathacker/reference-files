@@ -1,0 +1,4 @@
+# IP Blocks Classified under RFC 6890 as not Internet Addressable
+# Reference: https://www.rfc-editor.org/rfc/rfc6890.html
+
+0.0.0.0/8 # RFC 1122
