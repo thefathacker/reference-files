@@ -1,0 +1,8 @@
+######################################################################
+#
+# IP Blocks Allowed to Access Internet from The Fat Hacker Internal Network
+#
+######################################################################
+
+172.31.32.2             # RESOLV-AU1SR-2.thefathacker.net - eth0 - IPv4
+fd03:580b:a316:1f20::2  # RESOLV-AU1SR-2.thefathacker.net - eth0 - IPv6
