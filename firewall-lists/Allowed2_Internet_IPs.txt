@@ -6,3 +6,7 @@
 
 172.31.32.2             # RESOLV-AU1SR-2.thefathacker.net - eth0 - IPv4
 fd03:580b:a316:1f20::2  # RESOLV-AU1SR-2.thefathacker.net - eth0 - IPv6
+172.31.16.2             # RESOLV-AU1SR-1.thefathacker.net - ens192 - IPv4
+fd03:580b:a316:1f10::2  # RESOLV-AU1SR-1.thefathacker.net - ens192 - IPv6
+172.31.16.3             # DC-AU1SR-1.thefathacker.net - Ethernet0 - IPv4
+fd03:580b:a316:1f10::3  # DC-AU1SR-1.thefathacker.net - Ethernet0 - IPv6
