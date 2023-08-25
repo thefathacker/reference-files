@@ -1,0 +1,8 @@
+######################################################################
+#
+# IP Addresses of Known Domain Controllers on The Fat Hacker's Network
+#
+######################################################################
+
+172.31.16.3             # DC-AU1SR-1.thefathacker.net - Ethernet0 - IPv4
+fd03:580b:a316:1f10::3  # RESOLV-AU1SR-2.thefathacker.net - Ethernet0 - IPv6
