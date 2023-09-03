@@ -16,6 +16,7 @@ fd03:580b:a316:1f10::3      # DC-AU1SR-1.thefathacker.net - Ethernet0 - IPv6
 fd03:580b:a316:1f10::8e     # AAD-AU1SR-1.thefathacker.net - Ethernet0 - IPv6
 172.31.16.143               # docker-au1sr-2.thefathacker.net - ens33 - IPv4
 fd03:580b:a316:1f10::8f     # docker-au1sr-2.thefathacker.net - ens33 - IPv6
+172.31.16.16                # VC-AU1SR-1.thefathacker.net
 
 # NETWORKS
 
