@@ -28,3 +28,7 @@ fd03:580b:a316:1f10::8f     # docker-au1sr-2.thefathacker.net - ens33 - IPv6
 fd03:580b:a316:1fe1::/64    # DMZ - AU1 - The Fat Hacker iOT
 172.31.241.0/24             # WLAN - AU1 - Legion First
 fd03:580b:a316:1ff1::/64    # WLAN - AU1 - Legion First
+172.31.12.0/23              # LAN - AU1 - Storage 1GBe
+fd03:580b:a316:1f0c::/64    # LAN - AU1 - Storage 1GBe
+172.31.12.0/23              # LAN - AU1 - Storage 10GBe
+fd03:580b:a316:1f0e::/64    # LAN - AU1 - Storage 1GBe
