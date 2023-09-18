@@ -14,6 +14,8 @@ fd03:580b:a316:1f10::2      # RESOLV-AU1SR-1.thefathacker.net - ens192 - IPv6
 fd03:580b:a316:1f10::3      # DC-AU1SR-1.thefathacker.net - Ethernet0 - IPv6
 172.31.32.3                 # DC-AU1SR-2.thefathacker.net - Ethernet0 - IPv4
 fd03:580b:a316:1f20::3      # DC-AU1SR-2.thefathacker.net - Ethernet0 - IPv6
+172.31.16.141               # PIHOLE-AU1SR-M1.thefathacker.net - ens33 - IPv4
+fd03:580b:a316:1f10::8d     # PIHOLE-AU1SR-M1.thefathacker.net - ens33 - IPv6
 172.31.16.142               # AAD-AU1SR-1.thefathacker.net - Ethernet0 - IPv4
 fd03:580b:a316:1f10::8e     # AAD-AU1SR-1.thefathacker.net - Ethernet0 - IPv6
 172.31.16.143               # docker-au1sr-2.thefathacker.net - ens33 - IPv4
