@@ -34,5 +34,5 @@ fd03:580b:a316:1fe1::/64    # DMZ - AU1 - The Fat Hacker iOT
 fd03:580b:a316:1ff1::/64    # WLAN - AU1 - Legion First
 172.31.12.0/23              # LAN - AU1 - Storage 1GBe
 fd03:580b:a316:1f0c::/64    # LAN - AU1 - Storage 1GBe
-172.31.12.0/23              # LAN - AU1 - Storage 10GBe
+172.31.14.0/23              # LAN - AU1 - Storage 10GBe
 fd03:580b:a316:1f0e::/64    # LAN - AU1 - Storage 1GBe
