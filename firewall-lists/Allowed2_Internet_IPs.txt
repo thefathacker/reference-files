@@ -27,6 +27,8 @@ fd03:580b:a316:1f10::8f     # docker-au1sr-2.thefathacker.net - ens33 - IPv6
 fd03:580b:a316:1f10::a4     # Veeam
 172.31.16.55                # PRTG-AU1SR-1.thefathacker.net
 fd03:580b:a316:1f10::37
+172.31.16.56                # NEXPOSE-AU1SR-1.thefathacker.net
+fd03:580b:a316:1f10::38
 
 # NETWORKS
 
