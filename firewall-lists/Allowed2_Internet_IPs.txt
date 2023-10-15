@@ -25,6 +25,8 @@ fd03:580b:a316:1f10::8f     # docker-au1sr-2.thefathacker.net - ens33 - IPv6
 172.31.16.8                 # Azure Arc RG AU1
 172.31.16.164               # Veeam
 fd03:580b:a316:1f10::a4     # Veeam
+172.31.16.55                # PRTG-AU1SR-1.thefathacker.net
+fd03:580b:a316:1f10::37
 
 # NETWORKS
 
