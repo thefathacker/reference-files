@@ -29,6 +29,8 @@ fd03:580b:a316:1f10::a4     # Veeam
 fd03:580b:a316:1f10::37
 172.31.16.56                # NEXPOSE-AU1SR-1.thefathacker.net
 fd03:580b:a316:1f10::38
+172.31.16.35                # OVAS-AU1SR-1.thefathacker.net
+fd03:580b:a316:1f10::23
 
 # NETWORKS
 
