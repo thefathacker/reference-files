@@ -42,3 +42,5 @@ fd03:580b:a316:1ff1::/64    # WLAN - AU1 - Legion First
 fd03:580b:a316:1f0c::/64    # LAN - AU1 - Storage 1GBe
 172.31.14.0/23              # LAN - AU1 - Storage 10GBe
 fd03:580b:a316:1f0e::/64    # LAN - AU1 - Storage 1GBe
+172.29.14.0/23              # LAN - US1
+fd03:580b:a316:1d0e::/64    # LAN - US1
