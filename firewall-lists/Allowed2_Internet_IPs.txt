@@ -31,6 +31,7 @@ fd03:580b:a316:1f10::37
 fd03:580b:a316:1f10::38
 172.31.16.35                # OVAS-AU1SR-1.thefathacker.net
 fd03:580b:a316:1f10::23
+172.29.16.64                # SYNCTHING-US1SR-1.thefathacker.net
 
 # NETWORKS
 
