@@ -15,3 +15,5 @@ fd03:580b:a316:1f20::2  # RESOLV-AU1SR-2.thefathacker.net - eth0 - IPv6
 fd03:580b:a316:1f10::2  # RESOLV-AU1SR-1.thefathacker.net - ens192 - IPv6
 172.31.16.141               # PIHOLE-AU1SR-M1.thefathacker.net - ens33 - IPv4
 fd03:580b:a316:1f10::8d     # PIHOLE-AU1SR-M1.thefathacker.net - ens33 - IPv6
+172.29.16.2                 # RESOLV-US1SR-1.thefathacker.net
+172.29.32.2                 # RESOLV-US1SR-2.thefathacker.net
