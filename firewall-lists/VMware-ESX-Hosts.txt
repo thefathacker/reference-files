@@ -7,6 +7,7 @@
 172.31.1.64/32  # ESX-AU1VH-11.thefathacker.net
 172.31.10.3/32  # ESX-AU1VH-1.thefathacker.net
 10.3.0.99/32    # ESX-AU1VH-1.thefathacker.net
+10.3.0.20/32    # ESX-US1VH-20.thefathacker.net
 10.3.0.21/32    # ESX-US1VH-21.thefathacker.net
 10.3.0.22/32    # ESX-US1VH-22.thefathacker.net
 10.3.0.23/32    # ESX-US1VH-23.thefathacker.net
