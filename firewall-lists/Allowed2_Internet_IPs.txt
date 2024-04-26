@@ -35,6 +35,14 @@ fd03:580b:a316:1f10::23
 172.29.16.2                 # RESOLV-US1SR-1.thefathacker.net
 172.29.32.2                 # RESOLV-US1SR-2.thefathacker.net
 172.29.16.16                # VC-US1SR-1.thefathacker.net
+172.31.16.191               # ansi-au1sr-1.thefathacker.net
+fd03:580b:a316:1f10::bf     # ansi-au1sr-1.thefathacker.net
+172.31.16.192               # psql-au1sr-1.thefathacker.net
+fd03:580b:a316:1f10::c0     # psql-au1sr-1.thefathacker.net
+172.31.16.193               # netbox-au1sr-1.thefathacker.net
+fd03:580b:a316:1f10::c1     # netbox-au1sr-1.thefathacker.net
+172.31.16.194               # wiki-au1sr-1.thefathacker.net
+fd03:580b:a316:1f10::c2     # wiki-au1sr-1.thefathacker.net
 
 # NETWORKS
 
