@@ -43,6 +43,7 @@ fd03:580b:a316:1f10::c0     # psql-au1sr-1.thefathacker.net
 fd03:580b:a316:1f10::c1     # netbox-au1sr-1.thefathacker.net
 172.31.16.194               # wiki-au1sr-1.thefathacker.net
 fd03:580b:a316:1f10::c2     # wiki-au1sr-1.thefathacker.net
+172.31.16.77                # docker-au1sr-3.thefathacker.net
 
 # NETWORKS
 
