@@ -5,9 +5,13 @@
 ######################################################################
 
 192.168.0.0             # dns-primary.thefathacker.net - IPv4 Anycast DNS Server
+192.168.0.1             # dns-primary.thefathacker.net - IPv4 Anycast DNS Server
 fdff::                  # dns-primary.thefathacker.net - IPv6 Anycast DNS Server
+fdff::1                 # dns-primary.thefathacker.net - IPv6 Anycast DNS Server
 192.168.255.0           # dns-secondary.thefathacker.net - IPv4 Anycast DNS Server
+192.168.255.1           # dns-secondary.thefathacker.net - IPv4 Anycast DNS Server
 fdff:ffff:ffff:ffff::   # dns-secondary.thefathacker.net - IPv6 Anycast DNS Server
+fdff:0:0:ff::1          # dns-secondary.thefathacker.net - IPv6 Anycast DNS Server
 
 172.31.32.2             # RESOLV-AU1SR-2.thefathacker.net - eth0 - IPv4
 fd03:580b:a316:1f20::2  # RESOLV-AU1SR-2.thefathacker.net - eth0 - IPv6
