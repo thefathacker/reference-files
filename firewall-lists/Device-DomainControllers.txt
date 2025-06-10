@@ -14,3 +14,9 @@ fd03:580b:a316:1f10::8e # AAD-AU1SR-1.thefathacker.net - Ethernet0 - IPv6
 172.29.32.3             # DC-US1SR-2.thefathacker.net - Ethernet0 - IPv4
 172.31.16.55                # PRTG-AU1SR-1.thefathacker.net
 fd03:580b:a316:1f10::37
+
+### US1 DC's
+172.26.16.3		# DC-SR-1.thefathacker.net - Ethernet - IPv4
+fd03:580b:a316:1a10::3	# DC-SR-1.thefathacker.net - Ethernet - IPv6
+172.26.32.3		# DC-SR-2.thefathacker.net - Ethernet - IPv4
+fd03:580b:a316:1a20::3	# DC-SR-2.thefathacker.net - Ethernet - IPv6
