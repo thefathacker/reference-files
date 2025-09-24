@@ -47,7 +47,7 @@ fd03:580b:a316:1f10::c2     # wiki-au1sr-1.thefathacker.net
 
 # NETWORKS
 
-172.16.10.0/24              # AU1 Virtual Host Management
+172.31.10.0/24              # AU1 Virtual Host Management
 fd03:580b:a316:1f0a::/64    # AU1 Virtual Host Management
 172.31.16.0/24              # NetOps Primary
 fd03:580b:a316:1f10::/64    # NetOps Primary
